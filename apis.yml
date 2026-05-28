@@ -1,0 +1,32 @@
+aid: random-stuff
+name: Random Stuff
+description: "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed"
+url: https://api-docs.pgamerx.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Development"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Development
+  - Public APIs
+apis:
+  - name: Random Stuff
+    description: "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed"
+    humanURL: https://api-docs.pgamerx.com/
+    baseURL: https://api-docs.pgamerx.com/
+    tags:
+      - Development
+    properties:
+      - type: Documentation
+        url: https://api-docs.pgamerx.com/
+common:
+  - type: Website
+    url: https://api-docs.pgamerx.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
