@@ -39,7 +39,6 @@ apis:
   - name: Random Stuff
     description: "Can be used to get AI Response, jokes, memes, and much more at lightning-fast speed"
     humanURL: https://api-docs.pgamerx.com/
-    baseURL: https://api-docs.pgamerx.com/
     tags:
       - Development
     properties:
